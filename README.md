@@ -1,3 +1,5 @@
 # TryItAngular
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/CiriLLeo/TryItAngular)
+[Edit in StackBlitz next generation editor ⚡️]
+
+Clone repository, open terminal and start with 'ng serve'
